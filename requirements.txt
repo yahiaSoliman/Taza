@@ -1,0 +1,4 @@
+Appium-Python-Client==2.11.1
+requests==2.31.0
+HTMLTestRunner-rv==1.1.2
+pdf-gen==0.0.7
